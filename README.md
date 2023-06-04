@@ -15,7 +15,7 @@
 <!--\username=valyaone&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyaone&langs_count=8&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valyaone&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
