@@ -12,7 +12,11 @@
 -->
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valyaone&theme=gruvbox&hide_border=false)<br/>
-\username=valyaone&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!--\username=valyaone&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+-->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=valyaone&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 **valyaone/valyaone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
