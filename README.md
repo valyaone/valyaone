@@ -14,6 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valyaone&theme=gruvbox&hide_border=false)<br/>
 <!--\username=valyaone&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 -->
+<br >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unsleeping&langs_count=8&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=valyaone&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
